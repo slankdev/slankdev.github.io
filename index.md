@@ -40,4 +40,13 @@ if you want to access me.
 - 2017 Research Assistant (part time) on IIJ Inovation Institute
 - 2016 Lab Youth (part time reseacher) on Cybozu-Lab
 
+## Research
+
+I'm researching high-speed packet process and virtualization.
+I bilieve software router can make network more flexible and
+more functional.
+
+- [博士への長いみちのり?](./dr/)
+
 (c) 2018 Hiroki SHIROKURA. All rights reserved.
+
