@@ -46,7 +46,7 @@ I'm researching high-speed packet process and virtualization.
 I bilieve software router can make network more flexible and
 more functional.
 
-- [博士への長いみちのり?](./dr/)
+- [博士への長いみちのり?](./dr/index.html)
 
 (c) 2018 Hiroki SHIROKURA. All rights reserved.
 
