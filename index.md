@@ -1,0 +1,9 @@
+
+# Hiroki SHIROKURA
+
+I'm a software engineer at NTT Comunication.
+I'm interested in high-speed networking system and virtualization
+with commodity hardware. I also try to develop highest speed
+software router. I always research and develop them.
+
+
