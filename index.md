@@ -30,7 +30,7 @@ if you want to access me.
 - [Twitter](https://twitter.com/slankdev)
 - [Facebook](https://www.facebook.com/hiroki.shirokura)
 - [Blog](http://slankdev.hatenablog.com) (in japanese only)
-- Email: slank.dev [at] gmail.com
+- Email: slankdev [at] nttv6.jp
 
 ## Activitys
 
