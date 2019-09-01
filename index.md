@@ -4,17 +4,11 @@
 <img src="hirokishirokura.jpg" width="150px">
 <img src="slankdev.png" width="150px">
 
-I'm a software engineer at NTT Comunication, Japan.
+I'm a software engineer in Japan.
 I'm interested in high-speed networking system and virtualization
-with commodity hardware like a Intel-Server.
+with commodity hardware like Intel-Server.
 I'm also trying to develop highest speed software router.
-I always research and develop them.
-
-こんにちは,
-NTTコミュニケーションズでソフトウェアエンジニアをしています.
-IAサーバ等の汎用ハードウェアを用いた高性能通信と仮想化に興味が
-あり, 世界最速のソフトウェアルータの開発に挑戦しています.
-いつもそれらについて研究開発をしています.
+I always research and develop them
 
 ## Social Links
 
@@ -23,28 +17,21 @@ but it's ok to communicate in English (but little bit).
 please send message via sns (twitter,facebook,email,etc..) in English,
 if you want to access me.
 
-以下は, SNS等のリンクです. 日本語で書くことが多いですが,
-英語でのコミュニケーションも多少できます.
-
 - [GitHub](https://github.com/slankdev)
 - [Twitter](https://twitter.com/slankdev)
 - [Facebook](https://www.facebook.com/hiroki.shirokura)
 - [Blog](http://slankdev.hatenablog.com) (in japanese only)
-- Email: slankdev [at] nttv6.jp
+- Email: slank.dev [at] gmail.com
 
 ## Activitys
 
-- 2018 Join NTT Communications as a Software Engineer
-- 2017 Selected Creator of IPA Mitou Project
-- 2017 Internship on Technical Development division at NTT Communications
-- 2017 Research Assistant (part time) on IIJ Inovation Institute
-- 2016 Lab Youth (part time reseacher) on Cybozu-Lab
-
-## Research
-
-I'm researching high-speed packet process and virtualization.
-I bilieve software router can make network more flexible and
-more functional.
+- 2018.09-current: Software Engineer at LINE corp
+- 2018.04-current: Visiting Researcher at IPA ICSCoE
+- 2018.03-2019.08: Software Engineer at NTT Communications.
+- 2017.05-2018.03: Selected Creator of IPA Mitou Project
+- 2017.03-2017.03: Internship on Technical Development division at NTT Communications
+- 2017.03-2018.03: Research Assistant (part time) on IIJ Inovation Institute
+- 2016.03-2017.02: Lab Youth (part time reseacher) on Cybozu-Lab
 
 <!-- - [侍への長いみちのり?](./dr/index.html) -->
 
