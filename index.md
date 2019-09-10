@@ -25,7 +25,7 @@ if you want to access me.
 
 ## Activitys
 
-- 2018.09-current: Software Engineer at LINE corp
+- 2019.09-current: Software Engineer at LINE corp
 - 2018.04-current: Visiting Researcher at IPA ICSCoE
 - 2018.03-2019.08: Software Engineer at NTT Communications.
 - 2017.05-2018.03: Selected Creator of IPA Mitou Project
