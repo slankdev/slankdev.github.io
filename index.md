@@ -23,7 +23,7 @@ if you want to access me.
 - [Blog](http://slankdev.hatenablog.com) (in japanese only)
 - Email: slank.dev [at] gmail.com
 
-## Technocal Skills
+## Technical Skills
 
 notice: please check me more deeper.
 - Programming Language,SDKs: C/C++, Golang, Python, DPDK, XDP, Netlink, libpcap
