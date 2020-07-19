@@ -23,6 +23,17 @@ if you want to access me.
 - [Blog](http://slankdev.hatenablog.com) (in japanese only)
 - Email: slank.dev [at] gmail.com
 
+## Technocal Skills
+
+notice: please check me more deeper.
+- Programming Language,SDKs: C/C++, Golang, Python, DPDK, XDP, Netlink, libpcap
+- Networking: BGP, linux network virtualizatiion(netns, veth, l3mdev, iptables, etc..), Neutron-ML2-plugin, FRRouting, ExaBGP, Wireshark, SRv6, VRF
+- Automation, CI/CD: Ansible, Drone-CI
+
+- OSS Contribution:
+	- FRRoouting: Arroound SRv6 Core mechanism, and network virtualization
+	- ExaBGP: Arround SRv6 moduler
+
 ## Activitys
 
 - 2019.09-current: Software Engineer at LINE corp
